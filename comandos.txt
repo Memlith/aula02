@@ -1,0 +1,10 @@
+git init
+git add .
+git commit -m "github caio simonassi"
+git branch -M main
+git remote add origin https://github.com/Memlith/exercicio03.git
+git push -u origin main
+
+git add .
+git commit -m "atualização dos arquivos"
+git push -u origin main
